@@ -1,0 +1,30 @@
+
+itemGroup.jeckelcraftingboardmod=JeckelCraftingBoardMod
+
+container.crafting_board=Crafting Board
+
+tile.crafting_board.name=Crafting Board
+
+tile.crafting_board_wooden_oak.name=Oak Crafting Board
+tile.crafting_board_wooden_spruce.name=Spruce Crafting Board
+tile.crafting_board_wooden_birch.name=Birch Crafting Board
+tile.crafting_board_wooden_jungle.name=Jungle Crafting Board
+tile.crafting_board_wooden_acacia.name=Acacia Crafting Board
+tile.crafting_board_wooden_big_oak.name=Dark Oak Crafting Board
+
+tile.crafting_board_colored_black.name=Black Crafting Board
+tile.crafting_board_colored_red.name=Red Crafting Board
+tile.crafting_board_colored_green.name=Green Crafting Board
+tile.crafting_board_colored_brown.name=Brown Crafting Board
+tile.crafting_board_colored_blue.name=Blue Crafting Board
+tile.crafting_board_colored_purple.name=Purple Crafting Board
+tile.crafting_board_colored_cyan.name=Cyan Crafting Board
+tile.crafting_board_colored_silver.name=Light Gray Crafting Board
+tile.crafting_board_colored_gray.name=Gray Crafting Board
+tile.crafting_board_colored_pink.name=Pink Crafting Board
+tile.crafting_board_colored_lime.name=Lime Crafting Board
+tile.crafting_board_colored_yellow.name=Yellow Crafting Board
+tile.crafting_board_colored_light_blue.name=Blue Crafting Board
+tile.crafting_board_colored_magenta.name=Magenta Crafting Board
+tile.crafting_board_colored_orange.name=Orange Crafting Board
+tile.crafting_board_colored_white.name=White Crafting Board
